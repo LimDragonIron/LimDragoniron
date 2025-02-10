@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio! I am a passionate developer who loves to create 
 
 ## 📈 GitHub Stats
 
-![LimDragonIron's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDragonIron&show_icons=true&theme=radical)
+![LimDragonIron's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimDragonIron&hide=stars,contribs_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimDragonIron&layout=compact&theme=radical)
 
 
