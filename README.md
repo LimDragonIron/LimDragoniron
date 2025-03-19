@@ -36,6 +36,7 @@ A mind map app to help you learn. This project is built using Next.js.
 - 📝 **Rich Text Editor:** Fully-featured editor to format your notes.
 - 🌙 **Dark Mode:** Easy on the eyes with a smooth dark mode.
 - 📱 **Responsive Design:** Optimized for both desktop and mobile devices.
+- 🔐 **Auth.js Integration:** Utilizes Auth.js for seamless Google login.
 Explore the repository to learn more about the implementation and code structure.
 
 ### 👉 [One Day Portfolio](https://github.com/LimDragonIron/one-day-portfolio)
@@ -46,6 +47,7 @@ A profile homepage developed with Next.js. This project showcases a professional
 - 📝 **TypeScript:** Written in TypeScript to ensure type safety and better development experience.
 - 🌙 **Responsive Design:** Optimized for various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 - 🚀 **Hosting:** The portfolio is hosted on Vercel, providing fast and reliable performance.
+- 🎨 **Framer Motion:** Adds animations using Framer Motion for a dynamic user experience.
 Explore the repository to learn more about the implementation and code structure.
 
 ### 👉 [WebRTC Fullstack](https://github.com/LimDragonIron/webrtc-fullstack)
