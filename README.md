@@ -38,6 +38,16 @@ A mind map app to help you learn. This project is built using Next.js.
 - 📱 **Responsive Design:** Optimized for both desktop and mobile devices.
 Explore the repository to learn more about the implementation and code structure.
 
+### 👉 [One Day Portfolio](https://github.com/LimDragonIron/one-day-portfolio)
+A profile homepage developed with Next.js. This project showcases a professional and elegant portfolio designed to present personal profiles effectively.
+
+#### Key Features:
+- ⚛️ **Built with Next.js:** Utilizes the powerful features of Next.js for server-side rendering and static site generation.
+- 📝 **TypeScript:** Written in TypeScript to ensure type safety and better development experience.
+- 🌙 **Responsive Design:** Optimized for various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+- 🚀 **Hosting:** The portfolio is hosted on Vercel, providing fast and reliable performance.
+Explore the repository to learn more about the implementation and code structure.
+
 
 ## 📫 Contact Me
 
