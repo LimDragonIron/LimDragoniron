@@ -28,7 +28,15 @@ Welcome to my GitHub portfolio! I am a passionate developer who loves to create 
 
 
 ## 📚 Featured Projects
+### [MindMap NextJSApp](https://github.com/LimDragonIron/mine-memo)
+A beautifully designed Note-taking App built with Next.js. This project showcases advanced front-end development practices and a seamless user experience.
 
+#### Key Features:
+- ⚛️ **ReactFlow:** Visualize and manage workflows easily with ReactFlow.
+- 📝 **Rich Text Editor:** Fully-featured editor to format your notes.
+- 🌙 **Dark Mode:** Easy on the eyes with a smooth dark mode.
+- 📱 **Responsive Design:** Optimized for both desktop and mobile devices.
+Explore the repository to learn more about the implementation and code structure.
 
 
 ## 📫 Contact Me
