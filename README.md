@@ -48,6 +48,15 @@ A profile homepage developed with Next.js. This project showcases a professional
 - 🚀 **Hosting:** The portfolio is hosted on Vercel, providing fast and reliable performance.
 Explore the repository to learn more about the implementation and code structure.
 
+### 👉 [WebRTC Fullstack](https://github.com/LimDragonIron/webrtc-fullstack)
+This is a repository for a full-stack portfolio project leveraging WebRTC technology. It demonstrates the implementation of real-time communication features in a full-stack application.
+
+#### Key Features:
+- 📹 **WebRTC Integration:** Implements WebRTC for real-time communication capabilities.
+- 💻 **Full-Stack Development:** Combines both front-end and back-end technologies to create a complete application.
+- 📝 **TypeScript:** Utilizes TypeScript for type safety and enhanced development experience.
+- 🌟 **Open Source:** The project is open-source and available for contributions.
+Explore the repository to learn more about the implementation and code structure.
 
 ## 📫 Contact Me
 
