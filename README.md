@@ -28,7 +28,7 @@ Welcome to my GitHub portfolio! I am a passionate developer who loves to create 
 
 
 ## 📚 Featured Projects
-### 👉 [MindMap](https://github.com/LimDragonIron/monorepo-homepage) - ing
+### 👉 [Homepage (Client, Admin, BackEnd)](https://github.com/LimDragonIron/monorepo-homepage) - ing
 #### Key Features:
  - **NestJS:**  
   JWT Authentication: Secure user authentication using JSON Web Tokens.  
