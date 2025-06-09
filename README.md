@@ -28,14 +28,6 @@ Welcome to my GitHub portfolio! I am a passionate developer who loves to create 
 
 
 ## 📚 Featured Projects
-### 👉 [Homepage (Client, Admin, BackEnd)](https://github.com/LimDragonIron/monorepo-homepage) - ing
-#### Key Features:
- - **NestJS:**  
-  JWT Authentication: Secure user authentication using JSON Web Tokens.  
-  Posting: Users can create and post content.  
-  Database: Prisma is used as the Object-Relational Mapper (ORM) for database interactions.  
-  Caching: Redis is employed for caching to improve performance.  
-     
 
 ### 👉 [MindMap](https://github.com/LimDragonIron/mine-memo)
 A mind map app to help you learn. This project is built using Next.js.
