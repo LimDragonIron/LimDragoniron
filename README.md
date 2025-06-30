@@ -30,7 +30,7 @@
 ## 📚 대표 프로젝트
 
 ### 1. Homepage NestJS 서버
-- **링크:** [깃허브](https://github.com/LimDragonIron/hompage-server)
+- **소스코드:**  [Github 저장소](https://github.com/LimDragonIron/hompage-server)
 - **설명:** NestJS 기반의 서버 애플리케이션으로, 사용자 인증, 뉴스/게임/프로모션/파일 업로드/회사 정보 관리 등 다양한 API와 관리자 기능을 제공합니다.
 - **주요 기능**
   - JWT 기반 인증
@@ -41,7 +41,7 @@
 ---
 
 ### 2. Homepage CMS
-- **링크:** [깃허브](https://github.com/LimDragonIron/hompage-cms)
+- **소스코드:**  [Github 저장소](https://github.com/LimDragonIron/hompage-cms)
 - **설명:** React, TypeScript, Vite로 개발된 콘텐츠 관리 시스템(CMS)입니다. 관리자 대시보드에서 뉴스, 게임, 배너, 히어로 등 다양한 콘텐츠를 효율적으로 관리할 수 있습니다.
 - **주요 기능**
   - 콘텐츠 생성, 수정, 삭제, 임시 저장 및 순서 관리
@@ -52,7 +52,7 @@
 ---
 
 ### 3. Homepage Client
-- **링크:** [깃허브](https://github.com/LimDragonIron/homepage-client)
+- **소스코드:**  [Github 저장소](https://github.com/LimDragonIron/homepage-client)
 - **설명:** React, TypeScript, Vite 기반의 클라이언트 애플리케이션으로, 사용자에게 게임, 뉴스, 프로모션 배너 등 다양한 정보를 제공합니다. 직관적인 UI와 빠른 성능을 목표로 합니다.
 - **주요 기능**
   - 메인, 게임, 뉴스, 문의하기 등 다양한 페이지 제공
