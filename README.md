@@ -31,7 +31,7 @@
 
 ### 1. Homepage NestJS 서버
 - **소스코드:**  [Github 저장소](https://github.com/LimDragonIron/hompage-server)
-- **API: ** [Swagger](https://be.joiepot.com/docs#/)
+- **API:** [Swagger](https://be.joiepot.com/docs#/)
 - **설명:** NestJS 기반의 서버 애플리케이션으로, 사용자 인증, 뉴스/게임/프로모션/파일 업로드/회사 정보 관리 등 다양한 API와 관리자 기능을 제공합니다.
 - **주요 기능**
   - JWT 기반 인증
