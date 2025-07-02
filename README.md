@@ -54,6 +54,7 @@
 
 ### 3. Homepage Client
 - **소스코드:**  [Github 저장소](https://github.com/LimDragonIron/homepage-client)
+- **사이트:** [Hompage](https://games.joiepot.com)
 - **설명:** React, TypeScript, Vite 기반의 클라이언트 애플리케이션으로, 사용자에게 게임, 뉴스, 프로모션 배너 등 다양한 정보를 제공합니다. 직관적인 UI와 빠른 성능을 목표로 합니다.
 - **주요 기능**
   - 메인, 게임, 뉴스, 문의하기 등 다양한 페이지 제공
